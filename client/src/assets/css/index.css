@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+* {
+  font-family: Poppins, sans-serif;
+}
+
+.finisher-wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 100vh; /* Adjust height based on your section needs */
+}
